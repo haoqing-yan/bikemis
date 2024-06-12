@@ -4,7 +4,7 @@ import jakarta.persistence.*;
 import lombok.Data;
 
 /**
- * @author Your Name
+ * @author Donny
  * @date 2024/6/12
  */
 @Entity

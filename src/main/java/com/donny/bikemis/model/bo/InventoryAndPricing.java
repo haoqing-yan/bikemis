@@ -3,7 +3,7 @@ package com.donny.bikemis.model.bo;
 import jakarta.persistence.*;
 
 /**
- * @author Your Name
+ * @author Donny
  * @date 2024/6/12
  */
 
