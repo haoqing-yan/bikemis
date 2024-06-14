@@ -1,5 +1,5 @@
 package com.donny.bikemis.controller;
-import com.donny.bikemis.model.bo.PartsInfo;
+import com.donny.bikemis.model.PartsInfo;
 import com.donny.bikemis.service.PartsInfoService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

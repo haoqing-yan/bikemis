@@ -1,6 +1,6 @@
 package com.donny.bikemis.repository;
 
-import com.donny.bikemis.model.bo.InventoryAndPricing;
+import com.donny.bikemis.model.InventoryAndPricing;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

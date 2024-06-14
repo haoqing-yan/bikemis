@@ -1,6 +1,6 @@
 package com.donny.bikemis.service;
 
-import com.donny.bikemis.model.bo.InventoryAndPricing;
+import com.donny.bikemis.model.InventoryAndPricing;
 import com.donny.bikemis.repository.InventoryAndPricingRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

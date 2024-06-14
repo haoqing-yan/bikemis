@@ -1,6 +1,6 @@
 package com.donny.bikemis.service;
 
-import com.donny.bikemis.model.bo.UserFeedback;
+import com.donny.bikemis.model.UserFeedback;
 import com.donny.bikemis.repository.UserFeedbackRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

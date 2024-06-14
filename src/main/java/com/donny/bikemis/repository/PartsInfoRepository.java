@@ -1,6 +1,6 @@
 package com.donny.bikemis.repository;
 
-import com.donny.bikemis.model.bo.PartsInfo;
+import com.donny.bikemis.model.PartsInfo;
 import org.springframework.stereotype.Repository;
 import org.springframework.data.jpa.repository.JpaRepository;
 

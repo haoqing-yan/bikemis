@@ -1,4 +1,4 @@
-package com.donny.bikemis.model.bo;
+package com.donny.bikemis.model;
 
 import jakarta.persistence.*;
 import lombok.Data;
@@ -14,6 +14,7 @@ public class PartsInfo extends BaseModel {
     @Column(name = "name", nullable = false)
     private String name;
 
+//    @Enumerated(EnumType.STRING) // This tells JPA to store the enum values as strings
     @Column(name = "type")
     private String type;
 
