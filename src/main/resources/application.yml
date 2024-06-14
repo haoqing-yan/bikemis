@@ -4,7 +4,7 @@ spring:
   application:
     name: bikemis
   datasource:
-    url: jdbc:mysql://192.168.3.7:3306/bikemis?useSSL=false&serverTimezone=UTC&useLegacyDatetimeCode=false
+    url: jdbc:mysql://172.16.111.230:3306/bikemis?useSSL=false&serverTimezone=UTC&useLegacyDatetimeCode=false
     username: root
     password: WULIkanwuli9@
     driver-class-name: com.mysql.cj.jdbc.Driver

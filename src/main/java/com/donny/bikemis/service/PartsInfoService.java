@@ -1,6 +1,6 @@
 package com.donny.bikemis.service;
 
-import com.donny.bikemis.model.bo.PartsInfo;
+import com.donny.bikemis.model.PartsInfo;
 import com.donny.bikemis.repository.PartsInfoRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
